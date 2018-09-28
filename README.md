@@ -1,7 +1,13 @@
 # Ultrasonic-Arduino
 
-/*Turns lights on and off using an ultrasonic sensor 
-Source: http://www.arduino.cc/en/Tutorial/DigitalReadSerial
+/*
+
+Your name: Elias Han
+Date: 9/28/18
+Project/assignment name: 'Ultrasonic Uriel'
+Description: Sensor that changes which LEDs are on, depending on proximity to the sensor
+  
+Credit: http://www.arduino.cc/en/Tutorial/DigitalReadSerial
 
 /*
 
